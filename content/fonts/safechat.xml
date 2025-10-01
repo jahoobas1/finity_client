@@ -1,7 +1,7 @@
 <roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
 	<External>null</External>
 	<External>nil</External>
-	<utterance>fuck u twin</utterance>
+	<utterance>fuck u</utterance>
 	<utterance>Hello
 		<utterance>Hi
 			<utterance>Hi there!</utterance>
@@ -25,6 +25,9 @@
 			<utterance>How are you doing?</utterance>
 			<utterance>How's it going?</utterance>
 			<utterance>What's new?</utterance>
+			<utterance>wsp
+				<utterance>wsg</utterance>
+			</utterance>
 		</utterance>
 		<utterance>Good day
 			<utterance>Good morning</utterance>
@@ -87,7 +90,7 @@
 			<utterance>Smell you later!</utterance>
 			<utterance>GG!</utterance>
 			<utterance>My house is on fire! gtg.</utterance>
-			<utterance>shits ass imma leave.</utterance>
+			<utterance>shits ass imma leave</utterance>
 		</utterance>
 	</utterance>
 	<utterance>Friend
@@ -506,6 +509,9 @@
 			<utterance>z0mg h4x!</utterance>
 			<utterance>ub3rR0xXorzage!</utterance>
 			<utterance>all your base are belong to me!</utterance>
+			<utterance>ur fake
+				<utterance>helen keller isnt real</utterance>
+			</utterance>
 		</utterance>
 	</utterance>
 	<utterance>Yes
